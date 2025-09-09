@@ -1,4 +1,4 @@
-# Joruri Volunteer Tracking Dashboard
+# Joruri Emergency Response Co-ordination Website
 
 ## Overview
 This project is a web-based emergency response coordination system for volunteers and victims. It allows volunteers to view victim details, send messages, and receive replies. The system supports dark mode and is built with PHP, MySQL, HTML, and CSS.
@@ -183,3 +183,4 @@ CREATE TABLE taker (
 
 ## License
 This project is for educational purposes.
+
